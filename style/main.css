@@ -127,15 +127,17 @@ h1 {
 }
 
 .ethC span {
-    margin-left: 0.625rem;
+    margin-left: 0.4rem;
 }
 
 #eth1 {
     color: hsl(178, 100%, 50%);
+    font-weight: 400;
 }
 
 #clock {
     color: hsl(215, 51%, 70%);
+    font-weight: 400;
 }
 
 .section2 {
@@ -153,7 +155,7 @@ h1 {
 
 .creator p {
     font-size: 1rem;
-    font-weight: 300;
+    font-weight: 400;
     margin-left: 1.25rem;
     color: hsl(215, 51%, 70%);
 }
